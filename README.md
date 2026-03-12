@@ -85,7 +85,9 @@ plt.show()
 ## Output:
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
 <img width="1040" height="73" alt="image" src="https://github.com/user-attachments/assets/ab7a0028-7f9f-454b-9c92-9ef95d695c01" />
-<img width="1040" height="73" alt="image" src="https://github.com/user-attachments/assets/5c2a3343-0a43-47b9-8cf6-1f5be262a0b4" />
+<Figure size 640x480 with 1 Axes><img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/661d8c67-5b93-445a-b372-4f1f3ea1f5c5" />
+
+
 
 
 
